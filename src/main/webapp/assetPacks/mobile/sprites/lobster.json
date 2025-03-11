@@ -1,0 +1,132 @@
+{"frames": {
+
+"lobster_0000.png":
+{
+	"frame": {"x":1,"y":1,"w":450,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":450,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0001.png":
+{
+	"frame": {"x":453,"y":1,"w":465,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":465,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0002.png":
+{
+	"frame": {"x":920,"y":1,"w":482,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":482,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0003.png":
+{
+	"frame": {"x":1404,"y":1,"w":500,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":500,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0004.png":
+{
+	"frame": {"x":1,"y":409,"w":515,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":515,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0005.png":
+{
+	"frame": {"x":518,"y":409,"w":533,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":533,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0006.png":
+{
+	"frame": {"x":1053,"y":409,"w":544,"h":406},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":544,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0007.png":
+{
+	"frame": {"x":1,"y":817,"w":544,"h":406},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":544,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0008.png":
+{
+	"frame": {"x":547,"y":817,"w":533,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":533,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0009.png":
+{
+	"frame": {"x":1082,"y":817,"w":515,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":515,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0010.png":
+{
+	"frame": {"x":1,"y":1225,"w":500,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":500,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0011.png":
+{
+	"frame": {"x":503,"y":1225,"w":482,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":482,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0012.png":
+{
+	"frame": {"x":987,"y":1225,"w":465,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":465,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0013.png":
+{
+	"frame": {"x":1454,"y":1225,"w":450,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":450,"h":406},
+	"sourceSize": {"w":544,"h":406}
+},
+"lobster_0014.png":
+{
+	"frame": {"x":1,"y":1,"w":450,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":450,"h":406},
+	"sourceSize": {"w":544,"h":406}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lobster.png",
+	"format": "RGBA8888",
+	"size": {"w":1905,"h":1632},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:72ace5ac819b850c738e46c20349096e:5a35b6b98a1f487e63f34ee1ddd61763:c0652e84f86b380407410b559391c995$"
+}
+}

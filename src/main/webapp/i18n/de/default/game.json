@@ -1,0 +1,108 @@
+{
+  "version": "5-07-2018-4:56pm-SM-defaut_01",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nein",
+    "confirm": "Möchten Sie den Ton einschalten?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "von {@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlungsinformationen",
+    "paybackBody": "Für dieses Spiel betragen die langfristig erwarteten Rückzahlungsinformationen {RTP}.",
+    "hardCodeRTP": "von 85,00 % bis 93,00 %"
+  },
+  "title": "Lucky Larry's Lobstermania Tic Tac Toe",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Spielanleitung",
+      "payTable": "Gewinntabelle",
+      "price": "Preis",
+      "stake": "Einsatz",
+      "balance": "Guthaben",
+      "button_autoPlay": "AUTO PLAY",
+      "button_autoPlay_title": "Auto Play"
+    },
+    "Commercial": {
+      "howToPlay": "Spielanleitung",
+      "payTable": "Auszahlungstabelle",
+      "price": "Preis",
+      "stake": "Einsatz",
+      "balance": "Guthaben",
+      "button_autoPlay": "ALLE AUFDECKEN",
+      "button_autoPlay_title": "Alle aufdecken"
+    },
+    "audio": {
+      "on": "Ein",
+      "off": "Aus",
+      "sound": "Ton"
+    }
+  },
+  "Error": {},
+  "Game": {
+    "demo": "AUSPROBIEREN ",
+    "button_buy": "KAUFEN",
+    "button_try": "AUSPROBIEREN",
+    "button_continue": "WEITER",
+    "button_move2moneyGame": "ZU ECHTGELD WECHSELN",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOP",
+    "button_playAgain": "ERNEUT SPIELEN",
+    "button_MTMPlayAgain": "ERNEUT PROBIEREN",
+    "wager": "TICKETPREIS",
+    "meter_wager": "Ticketpreis: ",
+    "balance": "Guthaben: ",
+    "wins": "Gewinn: ",
+    "WINS": "GEWINNE",
+    "wins_demo": "Demo-Gewinn: ",
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_buyWinTitle": "GLÜCKWUNSCH!",
+    "message_tryWinTitle": "VIELEN DANK FÜRS SPIELEN!",
+    "message_buyWin": "Sie haben gewonnen",
+    "message_tryWin": "Sie hätten gewinnen können:",
+    "message_anonymousTryWin": "VIELEN DANK FÜRS SPIELEN!\nSie hätten gewinnen können:",
+    "message_close": "OK",
+    "button_exit": "BEENDEN",
+    "session_timeout_warning_exit_button": "BEENDEN",
+    "error_button_exit": "BEENDEN",
+    "warning_button_continue": "WEITER",
+    "warning_button_exitGame": "BEENDEN",
+    "warning_title": "WARNUNG",
+    "error_title": "FEHLER",
+    "win_up_to": "GEWINNEN SIE BIS ZU ",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SPIELANLEITUNG",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Drücken Sie auf den Hummer, um Symbole, ein Lucky-Larry-Porträt, oder Schatztruhen aufzudecken.\n Decken Sie 3 gleiche Symbole in einer horizontalen, vertikalen der diagonalen Linie auf, um zu gewinnen!",
+        "tutorial_01": "Drücken Sie auf das Lucky-Larry-Porträt, um 4 gleiche Symbole aufzudecken.",
+        "tutorial_02": "Drücken Sie auf die Schatztruhe, um 2 verschiedene Symbole aufzudecken."
+      },
+      "Commercial": {
+        "tutorial_00": "Drücken Sie auf den Hummer, um Symbole, ein Lucky-Larry-Porträt, oder Schatztruhen aufzudecken.\n Decken Sie 3 gleiche Symbole in einer horizontalen, vertikalen der diagonalen Linie auf, um zu gewinnen!",
+        "tutorial_01": "Drücken Sie auf das Lucky-Larry-Porträt, um 4 gleiche Symbole aufzudecken.",
+        "tutorial_02": "Drücken Sie auf die Schatztruhe, um 2 verschiedene Symbole aufzudecken."
+      }
+    },
+    "prizeTableHint": "Wählen Sie ein Symbol aus, um seinen Preiswert anzuzeigen.",
+    "prizeTableTitle": "GEWINNTABELLE",
+    "winBoxTitle": "GEWINNLINIEN",
+    "winBoxWin": "GEWINN",
+    "win_mark": ":",
+    "meter_division": " | ",
+    "buttonClose": "X",
+    "multiSign": "x ",
+    "prizeLevel": "Preisstufe",
+    "prizeValue": "Preiswert",
+    "paytableWager": "Ticketpreis: ",
+    "prizeDescription": "Beschreibung",
+    "Description": "Beschreibung",
+    "DescriptionA": "König, König, König ",
+    "DescriptionB": "Dame, Dame, Dame ",
+    "DescriptionC": "Bube, Bube, Bube ",
+    "DescriptionD": "Zehn, Zehn, Zehn ",
+    "DescriptionE": "Neun, Neun, Neun ",
+    "DescriptionF": "Acht, Acht, Acht ",
+    "Symbol": "Symbol"
+  }
+}

@@ -1,0 +1,108 @@
+﻿{
+    "version": "5-07-2018-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son?"
+    },
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "varie de {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}.",
+        "hardCodeRTP": "varie de 85,00 % et 93,00 %"
+    },
+    "title": "Lucky Larry’s Lobstermania Tic Tac Toe",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Comment jouer",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+			"button_autoPlay": "JEU AUTO",
+            "button_autoPlay_title":"Jeu automatique"
+        },
+        "Commercial": {
+            "howToPlay": "Comment jouer",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+			"button_autoPlay": "TOUT AFFICHER",
+            "button_autoPlay_title":"Tout afficher"
+        },
+        "audio": {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error": {},
+    "Game": {
+        "demo": "ESSAYER ",
+        "button_buy": "ACHETER",
+        "button_try": "ESSAYER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "MODE ARGENT RÉEL",
+		"button_autoPlay": "TOUT AFFICHER",
+		"button_stop": "ARRÊTER",
+        "button_playAgain": "JOUER DE NOUVEAU",
+        "button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+        "wager": "COÛT DU BILLET",
+        "meter_wager": "Coût du billet : ",
+        "balance": "Solde : ",
+        "wins": "Gain : ",
+		"WINS": "GAINS",
+        "wins_demo": "Gain fictif : ",
+        "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+		"message_buyWinTitle": "FÉLICITATIONS!",
+		"message_tryWinTitle": "MERCI DE JOUER!",
+        "message_buyWin": "Vous avez gagné",
+        "message_tryWin": "Vous auriez pu gagner",
+        "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "ATTENTION",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À ",
+        "win_up_to_mark": "!",
+        "tutorial_title":"COMMENT JOUER",
+		"tutorial": {
+			"WLA": {
+				"tutorial_00":"Appuyez sur le homard pour dévoiler des symboles, un portrait de Lucky Larry ou des coffres au trésor.\n Trouvez trois symboles identiques sur une ligne horizontale, verticale ou diagonale pour gagner un lot!",
+				"tutorial_01":"Appuyez sur le portrait de Lucky Larry pour faire apparaître quatre symboles identiques.",
+				"tutorial_02":"Appuyez sur le coffre au trésor pour faire apparaître deux symboles différents."
+			},
+			"Commercial": {
+				"tutorial_00":"Appuyez sur le homard pour dévoiler des symboles, un portrait de Lucky Larry ou des coffres au trésor.\n Trouvez trois symboles identiques sur une ligne horizontale, verticale ou diagonale pour gagner un lot!",
+				"tutorial_01":"Appuyez sur le portrait de Lucky Larry pour faire apparaître quatre symboles identiques.",
+				"tutorial_02":"Appuyez sur le coffre au trésor pour faire apparaître deux symboles différents."
+			}
+		},
+		"prizeTableHint": "Choisissez un symbole pour faire apparaître le lot correspondant.",
+		"prizeTableTitle": "TABLE DE PAIEMENT",
+		"winBoxTitle": "COMBINAISONS GAGNANTES",
+		"winBoxWin": "GAIN",
+        "win_mark": ":",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "multiSign":"x ",
+        "prizeLevel": "Niveau du lot",
+        "prizeValue": "Valeur du lot",
+        "paytableWager": "Coût du billet : ",
+        "prizeDescription": "Description",
+        "Description":"Description",
+        "DescriptionA": "Roi, Roi, Roi ",
+		"DescriptionB": "Dame, Dame, Dame ",
+		"DescriptionC": "Valet, Valet, Valet ",
+		"DescriptionD": "Dix, Dix, Dix ",
+		"DescriptionE": "Neuf, Neuf, Neuf ",
+		"DescriptionF": "Huit, Huit, Huit ",
+        "Symbol": "Symbole"
+    }
+}

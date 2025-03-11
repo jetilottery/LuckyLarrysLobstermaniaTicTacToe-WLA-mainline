@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch5.m4a",
+    "ch5.mp3",
+    "ch5.ogg"
+  ],
+  "sprite": {
+    "SummaryScreen": [
+      0,
+      9000
+    ],
+    "LoseSting": [
+      9050,
+      5670.045351473924
+    ]
+  }
+}

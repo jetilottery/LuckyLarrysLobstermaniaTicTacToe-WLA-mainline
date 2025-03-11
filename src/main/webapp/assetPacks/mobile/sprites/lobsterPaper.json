@@ -1,0 +1,180 @@
+{"frames": {
+
+"lobsterPaper_0000.png":
+{
+	"frame": {"x":1015,"y":698,"w":464,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":14,"w":464,"h":435},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0001.png":
+{
+	"frame": {"x":1,"y":831,"w":465,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":14,"w":465,"h":435},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0002.png":
+{
+	"frame": {"x":1,"y":1268,"w":465,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":14,"w":465,"h":435},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0003.png":
+{
+	"frame": {"x":509,"y":795,"w":463,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":14,"w":463,"h":435},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0004.png":
+{
+	"frame": {"x":1481,"y":1077,"w":459,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":14,"w":459,"h":435},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0005.png":
+{
+	"frame": {"x":468,"y":1232,"w":459,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":15,"w":459,"h":434},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0006.png":
+{
+	"frame": {"x":1435,"y":1514,"w":457,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":21,"w":457,"h":429},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0007.png":
+{
+	"frame": {"x":974,"y":1135,"w":459,"h":418},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":393,"y":31,"w":459,"h":418},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0008.png":
+{
+	"frame": {"x":963,"y":1555,"w":459,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":392,"y":46,"w":459,"h":404},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0009.png":
+{
+	"frame": {"x":1481,"y":698,"w":462,"h":377},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":386,"y":75,"w":462,"h":377},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0010.png":
+{
+	"frame": {"x":520,"y":399,"w":493,"h":394},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":350,"y":80,"w":493,"h":394},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0011.png":
+{
+	"frame": {"x":1,"y":420,"w":506,"h":409},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":329,"y":107,"w":506,"h":409},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0012.png":
+{
+	"frame": {"x":1,"y":1,"w":517,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":139,"w":517,"h":417},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0013.png":
+{
+	"frame": {"x":520,"y":1,"w":524,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":173,"w":524,"h":396},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0014.png":
+{
+	"frame": {"x":1046,"y":1,"w":536,"h":363},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":206,"w":536,"h":363},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0015.png":
+{
+	"frame": {"x":1046,"y":366,"w":545,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":224,"y":240,"w":545,"h":330},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0016.png":
+{
+	"frame": {"x":1,"y":1705,"w":537,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":304,"w":537,"h":266},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0017.png":
+{
+	"frame": {"x":540,"y":1668,"w":421,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":366,"w":421,"h":214},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0018.png":
+{
+	"frame": {"x":1584,"y":1,"w":269,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":168,"y":428,"w":269,"h":152},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0019.png":
+{
+	"frame": {"x":1584,"y":155,"w":166,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":488,"w":166,"h":92},
+	"sourceSize": {"w":900,"h":600}
+},
+"lobsterPaper_0020.png":
+{
+	"frame": {"x":1015,"y":399,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":900,"h":600}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lobsterPaper.png",
+	"format": "RGBA8888",
+	"size": {"w":1944,"h":1972},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a200c907860c7aeb184f0f51c5e5a272:fad2782a8e90dd686424801d3a635d7e:4f9acb6892e8dc74dba2a54e19aca0b5$"
+}
+}

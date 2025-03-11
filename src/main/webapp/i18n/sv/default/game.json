@@ -1,0 +1,108 @@
+{
+  "version": "5-07-2018-4:56pm-SM-defaut_01",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nej",
+    "confirm": "Vill du ha ljud?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "hardCodeRTP": "från 85,00 % till 93,00 %"
+  },
+  "title": "Lucky Larry's Lobstermania Tic Tac Toe",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Så här spelar du",
+      "payTable": "Pristabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo",
+      "button_autoPlay": "AUTOSPEL",
+      "button_autoPlay_title": "Autospel"
+    },
+    "Commercial": {
+      "howToPlay": "Så här spelar du",
+      "payTable": "Vinsttabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo",
+      "button_autoPlay": "AVSLÖJA ALLA",
+      "button_autoPlay_title": "Avslöja alla"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Ljud"
+    }
+  },
+  "Error": {},
+  "Game": {
+    "demo": "FÖRSÖK ",
+    "button_buy": "KÖP",
+    "button_try": "FÖRSÖK",
+    "button_continue": "FORTSÄTT",
+    "button_move2moneyGame": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPP",
+    "button_playAgain": "SPELA IGEN",
+    "button_MTMPlayAgain": "FÖRSÖK IGEN",
+    "wager": "LOTTKOSTNAD",
+    "meter_wager": "Lottkostnad: ",
+    "balance": "Saldo: ",
+    "wins": "Vinst: ",
+    "WINS": "VINST",
+    "wins_demo": "Demovinst: ",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_buyWinTitle": "GRATTIS!",
+    "message_tryWinTitle": "TACK FÖR ATT DU SPELAR!",
+    "message_buyWin": "Du har vunnit",
+    "message_tryWin": "Du kunde ha vunnit",
+    "message_anonymousTryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+    "message_close": "OK",
+    "button_exit": "LÄMNA",
+    "session_timeout_warning_exit_button": "LÄMNA",
+    "error_button_exit": "LÄMNA",
+    "warning_button_continue": "FORTSÄTT",
+    "warning_button_exitGame": "LÄMNA",
+    "warning_title": "VARNING",
+    "error_title": "FEL",
+    "win_up_to": "VINN UPP TILL ",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SÅ HÄR SPELAR DU",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Tryck på hummern för att avslöja symboler, ett Lucky Larry-porträtt eller skattkistor.\n Hitta 3 identiska symboler i en horisontell, vertikal eller diagonal linje för att vinna!",
+        "tutorial_01": "Tryck på Lucky Larry-porträttet för att avslöja 4 identiska symboler.",
+        "tutorial_02": "Tryck på skattkistan för att avslöja 2 olika symboler."
+      },
+      "Commercial": {
+        "tutorial_00": "Tryck på hummern för att avslöja symboler, ett Lucky Larry-porträtt eller skattkistor.\n Hitta 3 identiska symboler i en horisontell, vertikal eller diagonal linje för att vinna!",
+        "tutorial_01": "Tryck på Lucky Larry-porträttet för att avslöja 4 identiska symboler.",
+        "tutorial_02": "Tryck på skattkistan för att avslöja 2 olika symboler."
+      }
+    },
+    "prizeTableHint": "Välj en symbol för att se dess prisvärde.",
+    "prizeTableTitle": "PRISTABELL",
+    "winBoxTitle": "VINNANDE LINJER",
+    "winBoxWin": "VINST",
+    "win_mark": ":",
+    "meter_division": " | ",
+    "buttonClose": "X",
+    "multiSign": "x ",
+    "prizeLevel": "Prisnivå",
+    "prizeValue": "Prisvärde",
+    "paytableWager": "Lottkostnad: ",
+    "prizeDescription": "Beskrivning",
+    "Description": "Beskrivning",
+    "DescriptionA": "Kung, Kung, Kung ",
+    "DescriptionB": "Dam, Dam, Dam ",
+    "DescriptionC": "Knekt, Knekt, Knekt ",
+    "DescriptionD": "Tio, Tio, Tio ",
+    "DescriptionE": "Nio, Nio, Nio ",
+    "DescriptionF": "Åtta, Åtta, Åtta ",
+    "Symbol": "Symbol"
+  }
+}

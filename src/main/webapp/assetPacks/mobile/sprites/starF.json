@@ -1,0 +1,44 @@
+{"frames": {
+
+"star_0046.png":
+{
+	"frame": {"x":1,"y":364,"w":958,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":41,"w":958,"h":361},
+	"sourceSize": {"w":960,"h":450}
+},
+"star_0047.png":
+{
+	"frame": {"x":962,"y":1,"w":957,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":41,"w":957,"h":361},
+	"sourceSize": {"w":960,"h":450}
+},
+"star_0048.png":
+{
+	"frame": {"x":961,"y":364,"w":958,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":41,"w":958,"h":361},
+	"sourceSize": {"w":960,"h":450}
+},
+"star_0049.png":
+{
+	"frame": {"x":1,"y":1,"w":959,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":41,"w":959,"h":361},
+	"sourceSize": {"w":960,"h":450}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "starF.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":726},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0722afaf9019a8caf979a2ed7834f8a1:73e5c62e6bf12fe270f076f8f1a2cb0e:69ac7f0efe5504935237f2109f085907$"
+}
+}

@@ -1,0 +1,108 @@
+{
+  "version": "5-07-2018-4:56pm-SM-defaut_01",
+  "audioLoader": {
+    "yes": "Sì",
+    "no": "No",
+    "confirm": "Desideri attivare l'audio?"
+  },
+  "Paytable": {
+    "RTPvalue": "pari a {@minRTP}%",
+    "RTPrange": "da {@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco è {RTP}.",
+    "hardCodeRTP": "dall’85,00% al 93,00%"
+  },
+  "title": "Lucky Larry's Lobstermania Tic Tac Toe",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Come si gioca",
+      "payTable": "Tabella dei premi",
+      "price": "Prezzo",
+      "stake": "Puntata",
+      "balance": "Saldo",
+      "button_autoPlay": "GIOCO AUTOMATICO",
+      "button_autoPlay_title": "Gioco Automatico"
+    },
+    "Commercial": {
+      "howToPlay": "Come si gioca",
+      "payTable": "Tabella dei pagamenti",
+      "price": "Prezzo",
+      "stake": "Puntata",
+      "balance": "Saldo",
+      "button_autoPlay": "MOSTRA TUTTI",
+      "button_autoPlay_title": "Mostra Tutti"
+    },
+    "audio": {
+      "on": "On",
+      "off": "Off",
+      "sound": "Audio"
+    }
+  },
+  "Error": {},
+  "Game": {
+    "demo": "PROVA ",
+    "button_buy": "ACQUISTA",
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+    "button_move2moneyGame": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_playAgain": "GIOCA ANCORA",
+    "button_MTMPlayAgain": "RIPROVA",
+    "wager": "PREZZO BIGLIETTO",
+    "meter_wager": "Prezzo Biglietto: ",
+    "balance": "Saldo: ",
+    "wins": "Vincita: ",
+    "WINS": "VINCITE",
+    "wins_demo": "Vincita Demo: ",
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_buyWinTitle": "CONGRATULAZIONI!",
+    "message_tryWinTitle": "GRAZIE PER AVER GIOCATO CON NOI!",
+    "message_buyWin": "Hai vinto",
+    "message_tryWin": "Avresti potuto vincere",
+    "message_anonymousTryWin": "GRAZIE PER AVER GIOCATO CON NOI!\nAvresti potuto vincere",
+    "message_close": "OK",
+    "button_exit": "ESCI",
+    "session_timeout_warning_exit_button": "ESCI",
+    "error_button_exit": "ESCI",
+    "warning_button_continue": "CONTINUA",
+    "warning_button_exitGame": "ESCI",
+    "warning_title": "ATTENZIONE",
+    "error_title": "ERRORE",
+    "win_up_to": "VINCI FINO A ",
+    "win_up_to_mark": "!",
+    "tutorial_title": "COME SI GIOCA",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Premi sull'Aragosta per rivelare simboli, il ritratto di Lucky Larry o un forziere.\n Ottieni 3 simboli identici su una linea orizzontale, verticale o diagonale per vincere!",
+        "tutorial_01": "Premi sul ritratto di Lucky Larry per rivelare quattro simboli identici.",
+        "tutorial_02": "Premi sul forziere per rivelare due simboli diversi."
+      },
+      "Commercial": {
+        "tutorial_00": "Premi sull'Aragosta per rivelare simboli, il ritratto di Lucky Larry o un forziere.\n Ottieni 3 simboli identici su una linea orizzontale, verticale o diagonale per vincere!",
+        "tutorial_01": "Premi sul ritratto di Lucky Larry per rivelare quattro simboli identici.",
+        "tutorial_02": "Premi sul forziere per rivelare due simboli diversi."
+      }
+    },
+    "prizeTableHint": "Seleziona un simbolo per scoprirne il premio.",
+    "prizeTableTitle": "TABELLA DEI PREMI",
+    "winBoxTitle": "LINEE VINCENTI",
+    "winBoxWin": "VINCITA",
+    "win_mark": ":",
+    "meter_division": " | ",
+    "buttonClose": "X",
+    "multiSign": "x ",
+    "prizeLevel": "Livello del Premio",
+    "prizeValue": "Valore del Premio",
+    "paytableWager": "Prezzo Biglietto: ",
+    "prizeDescription": "Descrizione",
+    "Description": "Descrizione",
+    "DescriptionA": "Re, Re, Re ",
+    "DescriptionB": "Regina, Regina, Regina ",
+    "DescriptionC": "Jack, Jack, Jack ",
+    "DescriptionD": "Dieci, Dieci, Dieci ",
+    "DescriptionE": "Nove, Nove, Nove ",
+    "DescriptionF": "Otto, Otto, Otto ",
+    "Symbol": "Simbolo"
+  }
+}

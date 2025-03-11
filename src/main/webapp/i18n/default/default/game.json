@@ -1,0 +1,115 @@
+{
+    "version": "5-07-2018-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "hardCodeRTP": "from 85.00% to 93.00%"
+    },
+    "title": "Lucky Larry's Lobstermania Tic Tac Toe",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "How to Play",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+			"button_autoPlay": "AUTO PLAY",
+            "button_autoPlay_title":"Auto Play",
+			"prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+			"overAllOdds1": "There is a 1 in ",
+			"overAllOdds2": " overall chance of winning a prize on each play",
+			"availablePrices": "Available Price Points:{prices}"
+        },
+        "Commercial": {
+            "howToPlay": "How to Play",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+			"button_autoPlay": "REVEAL ALL",
+            "button_autoPlay_title":"Reveal All"
+        },
+        "audio": {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error": {},
+    "Game": {
+        "demo": "TRY ",
+        "button_buy": "BUY",
+        "button_try": "TRY",
+        "button_continue": "CONTINUE",
+        "button_move2moneyGame": "MOVE TO MONEY",
+		"button_autoPlay": "REVEAL ALL",
+		"button_stop": "STOP",
+        "button_playAgain": "PLAY AGAIN",
+        "button_MTMPlayAgain": "TRY AGAIN",
+        "wager": "TICKET COST",
+        "meter_wager": "Ticket Cost: ",
+        "balance": "Balance: ",
+        "wins": "Win: ",
+		"WINS": "WINS",
+        "wins_demo": "Demo Win: ",
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+		"message_buyWinTitle": "CONGRATULATIONS!",
+		"message_tryWinTitle": "THANKS FOR PLAYING!",
+        "message_buyWin": "You have won",
+        "message_tryWin": "You could have won",
+        "message_anonymousTryWin": "THANKS FOR PLAYING!\nYou could have won",
+        "message_close": "OK",
+        "button_exit": "EXIT",
+        "session_timeout_warning_exit_button": "EXIT",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "CONTINUE",
+        "warning_button_exitGame": "EXIT",
+        "warning_title": "WARNING",
+        "error_title": "ERROR",
+        "win_up_to": "WIN UP TO ",
+        "win_up_to_mark": "!",
+        "tutorial_title":"HOW TO PLAY",
+		"tutorial": {
+			"WLA": {
+				"tutorial_00":"Press the Lobster to reveal symbols, a Lucky Larry portrait, or treasure chests.\n Find 3 identical symbols in a horizontal, vertical, or diagonal line to win!",
+				"tutorial_01":"Press the Lucky Larry portrait to reveal 4 identical symbols.",
+				"tutorial_02":"Press the treasure chest to reveal 2 different symbols."
+			},
+			"Commercial": {
+				"tutorial_00":"Press the Lobster to reveal symbols, a Lucky Larry portrait, or treasure chests.\n Find 3 identical symbols in a horizontal, vertical, or diagonal line to win!",
+				"tutorial_01":"Press the Lucky Larry portrait to reveal 4 identical symbols.",
+				"tutorial_02":"Press the treasure chest to reveal 2 different symbols."
+			}
+		},
+		"prizeTableHint": "Select a symbol to view its prize values.",
+		"prizeTableTitle": "PRIZE TABLE",
+		"winBoxTitle": "WINNING LINES",
+		"winBoxWin": "WIN",
+        "win_mark": ":",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "multiSign":"x ",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: ",
+        "prizeDescription": "Description",
+        "Description":"Description",
+        "DescriptionA": "King, King, King ",
+		"DescriptionB": "Queen, Queen, Queen ",
+		"DescriptionC": "Jack, Jack, Jack ",
+		"DescriptionD": "Ten, Ten, Ten ",
+		"DescriptionE": "Nine, Nine, Nine ",
+		"DescriptionF": "Eight, Eight, Eight ",
+        "Symbol": "Symbol"
+    }
+}

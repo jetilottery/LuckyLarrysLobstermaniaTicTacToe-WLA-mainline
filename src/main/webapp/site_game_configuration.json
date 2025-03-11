@@ -1,0 +1,50 @@
+{
+    "default":{			
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"reveal_all_button_enabled":			true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "12":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"reveal_all_button_enabled":			true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "16":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"reveal_all_button_enabled":			true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "36":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"reveal_all_button_enabled":			true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	}
+}

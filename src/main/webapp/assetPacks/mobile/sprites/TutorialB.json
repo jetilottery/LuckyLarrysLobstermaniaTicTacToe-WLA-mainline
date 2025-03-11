@@ -1,0 +1,60 @@
+{"frames": {
+
+"gameBGL.jpg":
+{
+	"frame": {"x":1,"y":1,"w":960,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":600},
+	"sourceSize": {"w":960,"h":600}
+},
+"gameBGP.jpg":
+{
+	"frame": {"x":963,"y":1,"w":600,"h":960},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":960},
+	"sourceSize": {"w":600,"h":960}
+},
+"logo.png":
+{
+	"frame": {"x":1,"y":1635,"w":514,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":40,"w":514,"h":321},
+	"sourceSize": {"w":650,"h":374}
+},
+"tree.png":
+{
+	"frame": {"x":1,"y":603,"w":960,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":481},
+	"sourceSize": {"w":960,"h":600}
+},
+"treeP.png":
+{
+	"frame": {"x":963,"y":963,"w":600,"h":737},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":600,"h":737},
+	"sourceSize": {"w":600,"h":746}
+},
+"winBoxError.png":
+{
+	"frame": {"x":1,"y":1086,"w":867,"h":547},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":12,"w":867,"h":547},
+	"sourceSize": {"w":960,"h":600}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TutorialB.png",
+	"format": "RGBA8888",
+	"size": {"w":1564,"h":1957},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7971cb8b60084abc2fe85c052ce5f16c:b77fea62b87871261c6093e98677e4eb:b870588d25f37017cf4998b8036162ba$"
+}
+}
