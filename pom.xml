@@ -59,14 +59,14 @@
     <dependency>
       <groupId>com.igt.interactive.skbJet.componentCRDC.IwGameControllers</groupId>
       <artifactId>metersController</artifactId>
-      <version>1.0.7-SNAPSHOT</version>
+      <version>1.0.7</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
     <dependency>
       <groupId>com.igt.interactive.skbJet.componentCRDC.IwGameControllers</groupId>
       <artifactId>exitAndHomeController</artifactId>
-      <version>1.0.7-SNAPSHOT</version>
+      <version>1.0.7</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
